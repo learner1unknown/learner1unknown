@@ -2,7 +2,7 @@
 - 👀 I’m interested in any kind of development on the web!
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on awesome web based projects, let's build together!
-- 📫 How to reach me on [twitter](https://twitter.com/reubenfrith) or add me on [LinkedIn](https://www.linkedin.com/in/reuben-frith/)
+- 📫 Message me on [twitter](https://twitter.com/reubenfrith) or add me on [LinkedIn](https://www.linkedin.com/in/reuben-frith/)
 
 <!---
 learner1unknown/learner1unknown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
