@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reuben,
 - 👀 I’m interested in any kind of development on the web!
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on awesome web based projects
+- 💞️ I’m looking to collaborate on awesome web based projects, let's build together!
 - 📫 How to reach me on twitter [@reuebenfrith](https://twitter.com/reubenfrith) or add me on [LinkedIn](https://www.linkedin.com/in/reuben-frith/)
 
 <!---
